@@ -12,7 +12,7 @@ const Home = () =>{
         <SafeAreaView>
                <View>
                     <Title text={title}/>
-                    <Title></Title>
+                
                </View>
         </SafeAreaView>
     )
